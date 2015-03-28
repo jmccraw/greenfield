@@ -1,6 +1,10 @@
 # Greenfield
 Notes and tools to get started on new projects and to stay relevant in an infinite abyss of tools and blog posts.
 
+## Style Guides
+* JavaScript
+ * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/README.md)
+
 ## ES 2015 [ES6]
 * [_Understanding ECMAScript 6_](https://leanpub.com/understandinges6/read) by Nicholas Zakas
 * [“Learn ES6”](http://babeljs.io/docs/learn-es6/) from Babel
